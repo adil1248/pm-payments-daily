@@ -7,7 +7,7 @@
     <description>A daily two-host digest of what moved in product management and in payments and fintech over the last twenty-four hours. Independent industry commentary; not affiliated with any company covered.</description>
     <language>en-us</language>
     <copyright>PM &amp; Payments Daily</copyright>
-    <lastBuildDate>Mon, 31 Aug 2026 15:13:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 23:56:00 +0000</lastBuildDate>
     <generator>rss.py</generator>
     <image>
       <url>https://adil1248.github.io/pm-payments-daily/cover.jpg</url>
@@ -21,6 +21,21 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Business"><itunes:category text="Management"/></itunes:category>
     <itunes:owner><itunes:name>PM &amp; Payments Daily</itunes:name><itunes:email>12261227+adil1248@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>Rails and Roadmaps — 2026-09-14</title>
+      <link>https://adil1248.github.io/pm-payments-daily/</link>
+      <guid isPermaLink="false">rails-roadmaps-2026-09-14-fc597423</guid>
+      <pubDate>Mon, 14 Sep 2026 23:55:59 +0000</pubDate>
+      <description>&lt;p&gt;Today's five stories across product management and payments.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.finextra.com/pressarticle/110896/worldline-enables-agentic-commerce-payments-via-universal-commerce-protocol?utm_medium=rssfinextra&amp;amp;utm_source=finextrafeed"&gt;Worldline enables agentic commerce payments via Universal Commerce Protocol&lt;/a&gt; — Finextra&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.pymnts.com/commerce/ecommerce/2026/shopify-says-ai-search-boosts-conversions-by-80/"&gt;Shopify Says AI Search Boosts Conversions by 80%&lt;/a&gt; — PYMNTS&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.americanbanker.com/news/new-crypto-bill-looks-at-stablecoin-yield-but-passage-still-unlikely"&gt;New crypto bill looks at stablecoin yield, but passage still unlikely&lt;/a&gt; — American Banker&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.lennysnewsletter.com/p/how-i-ai-how-two-spacexai-designers"&gt;🎙️ How I AI: How two SpaceXAI designers use Grok Bot to do their jobs&lt;/a&gt; — Lenny's Newsletter&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents"&gt;How Grok Bot designers use AI agents to build personal sites and product prototypes | John Bai &amp;amp; Peng Zheng&lt;/a&gt; — Lenny's Newsletter&lt;/li&gt;&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p>Today's five stories across product management and payments.</p><ul><li><a href="https://www.finextra.com/pressarticle/110896/worldline-enables-agentic-commerce-payments-via-universal-commerce-protocol?utm_medium=rssfinextra&amp;utm_source=finextrafeed">Worldline enables agentic commerce payments via Universal Commerce Protocol</a> — Finextra</li><li><a href="https://www.pymnts.com/commerce/ecommerce/2026/shopify-says-ai-search-boosts-conversions-by-80/">Shopify Says AI Search Boosts Conversions by 80%</a> — PYMNTS</li><li><a href="https://www.americanbanker.com/news/new-crypto-bill-looks-at-stablecoin-yield-but-passage-still-unlikely">New crypto bill looks at stablecoin yield, but passage still unlikely</a> — American Banker</li><li><a href="https://www.lennysnewsletter.com/p/how-i-ai-how-two-spacexai-designers">🎙️ How I AI: How two SpaceXAI designers use Grok Bot to do their jobs</a> — Lenny's Newsletter</li><li><a href="https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents">How Grok Bot designers use AI agents to build personal sites and product prototypes | John Bai &amp; Peng Zheng</a> — Lenny's Newsletter</li></ul>]]></content:encoded>
+      <itunes:title>Rails and Roadmaps — 2026-09-14</itunes:title>
+      <itunes:summary>&lt;p&gt;Today's five stories across product management and payments.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.finextra.com/pressarticle/110896/worldline-enables-agentic-commerce-payments-via-universal-commerce-protocol?utm_medium=rssfinextra&amp;amp;utm_source=finextrafeed"&gt;Worldline enables agentic commerce payments via Universal Commerce Protocol&lt;/a&gt; — Finextra&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.pymnts.com/commerce/ecommerce/2026/shopify-says-ai-search-boosts-conversions-by-80/"&gt;Shopify Says AI Search Boosts Conversions by 80%&lt;/a&gt; — PYMNTS&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.americanbanker.com/news/new-crypto-bill-looks-at-stablecoin-yield-but-passage-still-unlikely"&gt;New crypto bill looks at stablecoin yield, but passage still unlikely&lt;/a&gt; — American Banker&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.lennysnewsletter.com/p/how-i-ai-how-two-spacexai-designers"&gt;🎙️ How I AI: How two SpaceXAI designers use Grok Bot to do their jobs&lt;/a&gt; — Lenny's Newsletter&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents"&gt;How Grok Bot designers use AI agents to build personal sites and product prototypes | John Bai &amp;amp; Peng Zheng&lt;/a&gt; — Lenny's Newsletter&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+      <itunes:author>PM &amp; Payments Daily</itunes:author>
+      <itunes:duration>628</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://adil1248.github.io/pm-payments-daily/episodes/2026-09-14.mp3" length="7547593" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Rails and Roadmaps — 2026-08-31</title>
       <link>https://adil1248.github.io/pm-payments-daily/</link>
