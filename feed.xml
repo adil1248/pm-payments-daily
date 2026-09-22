@@ -4,10 +4,11 @@
     <title>Rails and Roadmaps</title>
     <link>https://adil1248.github.io/pm-payments-daily/</link>
     <atom:link href="https://adil1248.github.io/pm-payments-daily/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <description>A daily two-host digest of what moved in product management and in payments and fintech over the last twenty-four hours. Independent industry commentary; not affiliated with any company covered.</description>
     <language>en-us</language>
     <copyright>PM &amp; Payments Daily</copyright>
-    <lastBuildDate>Mon, 14 Sep 2026 23:56:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 16:03:15 +0000</lastBuildDate>
     <generator>rss.py</generator>
     <image>
       <url>https://adil1248.github.io/pm-payments-daily/cover.jpg</url>
@@ -21,6 +22,21 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Business"><itunes:category text="Management"/></itunes:category>
     <itunes:owner><itunes:name>PM &amp; Payments Daily</itunes:name><itunes:email>12261227+adil1248@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>Rails and Roadmaps — 2026-09-21</title>
+      <link>https://adil1248.github.io/pm-payments-daily/</link>
+      <guid isPermaLink="false">rails-roadmaps-2026-09-21-5154243c</guid>
+      <pubDate>Mon, 21 Sep 2026 22:47:13 +0000</pubDate>
+      <description>&lt;p&gt;Today's five stories across product management and payments.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.paymentsdive.com/news/830753/"&gt;Stripe’s wallet embraces AI bots&lt;/a&gt; — Payments Dive&lt;/li&gt;&lt;li&gt;&lt;a href="https://tearsheet.co/10-q/the-week-in-market-moves-sept-10-17-2026/?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=the-week-in-market-moves-sept-10-17-2026"&gt;The Week in Market Moves | Sept 10 – 17, 2026&lt;/a&gt; — Tearsheet&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.finextra.com/pressarticle/110955/reap-release-managed-graud-and-risk-servive-for-card-programmes?utm_medium=rssfinextra&amp;amp;utm_source=finextrafeed"&gt;Reap release managed graud and risk servive for card programmes&lt;/a&gt; — Finextra&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp"&gt;🎙️ How I AI: Meta’s Muse review + How Warp ships 2,000 PRs a month with AI factories&lt;/a&gt; — Lenny's Newsletter&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.lennysnewsletter.com/p/how-warp-ships-2000-prs-a-month-with"&gt;How Warp ships 2,000 PRs a month with AI factories | Zach Lloyd (CEO, Warp)&lt;/a&gt; — Lenny's Newsletter&lt;/li&gt;&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p>Today's five stories across product management and payments.</p><ul><li><a href="https://www.paymentsdive.com/news/830753/">Stripe’s wallet embraces AI bots</a> — Payments Dive</li><li><a href="https://tearsheet.co/10-q/the-week-in-market-moves-sept-10-17-2026/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-week-in-market-moves-sept-10-17-2026">The Week in Market Moves | Sept 10 – 17, 2026</a> — Tearsheet</li><li><a href="https://www.finextra.com/pressarticle/110955/reap-release-managed-graud-and-risk-servive-for-card-programmes?utm_medium=rssfinextra&amp;utm_source=finextrafeed">Reap release managed graud and risk servive for card programmes</a> — Finextra</li><li><a href="https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp">🎙️ How I AI: Meta’s Muse review + How Warp ships 2,000 PRs a month with AI factories</a> — Lenny's Newsletter</li><li><a href="https://www.lennysnewsletter.com/p/how-warp-ships-2000-prs-a-month-with">How Warp ships 2,000 PRs a month with AI factories | Zach Lloyd (CEO, Warp)</a> — Lenny's Newsletter</li></ul>]]></content:encoded>
+      <itunes:title>Rails and Roadmaps — 2026-09-21</itunes:title>
+      <itunes:summary>&lt;p&gt;Today's five stories across product management and payments.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.paymentsdive.com/news/830753/"&gt;Stripe’s wallet embraces AI bots&lt;/a&gt; — Payments Dive&lt;/li&gt;&lt;li&gt;&lt;a href="https://tearsheet.co/10-q/the-week-in-market-moves-sept-10-17-2026/?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=the-week-in-market-moves-sept-10-17-2026"&gt;The Week in Market Moves | Sept 10 – 17, 2026&lt;/a&gt; — Tearsheet&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.finextra.com/pressarticle/110955/reap-release-managed-graud-and-risk-servive-for-card-programmes?utm_medium=rssfinextra&amp;amp;utm_source=finextrafeed"&gt;Reap release managed graud and risk servive for card programmes&lt;/a&gt; — Finextra&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp"&gt;🎙️ How I AI: Meta’s Muse review + How Warp ships 2,000 PRs a month with AI factories&lt;/a&gt; — Lenny's Newsletter&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.lennysnewsletter.com/p/how-warp-ships-2000-prs-a-month-with"&gt;How Warp ships 2,000 PRs a month with AI factories | Zach Lloyd (CEO, Warp)&lt;/a&gt; — Lenny's Newsletter&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+      <itunes:author>PM &amp; Payments Daily</itunes:author>
+      <itunes:duration>611</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://adil1248.github.io/pm-payments-daily/episodes/2026-09-21.mp3" length="7336315" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Rails and Roadmaps — 2026-09-14</title>
       <link>https://adil1248.github.io/pm-payments-daily/</link>
