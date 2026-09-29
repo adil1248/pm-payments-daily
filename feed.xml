@@ -8,7 +8,7 @@
     <description>A daily two-host digest of what moved in product management and in payments and fintech over the last twenty-four hours. Independent industry commentary; not affiliated with any company covered.</description>
     <language>en-us</language>
     <copyright>PM &amp; Payments Daily</copyright>
-    <lastBuildDate>Tue, 22 Sep 2026 16:03:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 16:12:57 +0000</lastBuildDate>
     <generator>rss.py</generator>
     <image>
       <url>https://adil1248.github.io/pm-payments-daily/cover.jpg</url>
@@ -22,6 +22,21 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Business"><itunes:category text="Management"/></itunes:category>
     <itunes:owner><itunes:name>PM &amp; Payments Daily</itunes:name><itunes:email>12261227+adil1248@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>Rails and Roadmaps — 2026-09-28</title>
+      <link>https://adil1248.github.io/pm-payments-daily/</link>
+      <guid isPermaLink="false">rails-roadmaps-2026-09-28-b2a64208</guid>
+      <pubDate>Tue, 29 Sep 2026 16:12:54 +0000</pubDate>
+      <description>&lt;p&gt;Today's five stories across product management and payments.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.paymentsdive.com/news/fido-wrestles-with-agentic-trust/831380/"&gt;FIDO wrestles with agentic trust&lt;/a&gt; — Payments Dive&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.paymentsdive.com/news/fed-proposes-stablecoin-rules/831405/"&gt;Fed proposes stablecoin rules&lt;/a&gt; — Payments Dive&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.lennysnewsletter.com/p/all-of-the-lenny-and-friends-summit"&gt;All of the Lenny &amp;amp; Friends Summit talks are now online!&lt;/a&gt; — Lenny's Newsletter&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.lennysnewsletter.com/p/how-i-ai-jev-for-beginners-i-left"&gt;🎙️ How I AI: Jev for beginners + I left Claude for months, Opus 5.5 brought me back + Opus 5.5 vs. GPT-6 Sol bench&lt;/a&gt; — Lenny's Newsletter&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.paymentsdive.com/news/fednow-tiptoes-into-cross-border/831632/"&gt;FedNow tiptoes into cross-border&lt;/a&gt; — Payments Dive&lt;/li&gt;&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p>Today's five stories across product management and payments.</p><ul><li><a href="https://www.paymentsdive.com/news/fido-wrestles-with-agentic-trust/831380/">FIDO wrestles with agentic trust</a> — Payments Dive</li><li><a href="https://www.paymentsdive.com/news/fed-proposes-stablecoin-rules/831405/">Fed proposes stablecoin rules</a> — Payments Dive</li><li><a href="https://www.lennysnewsletter.com/p/all-of-the-lenny-and-friends-summit">All of the Lenny &amp; Friends Summit talks are now online!</a> — Lenny's Newsletter</li><li><a href="https://www.lennysnewsletter.com/p/how-i-ai-jev-for-beginners-i-left">🎙️ How I AI: Jev for beginners + I left Claude for months, Opus 5.5 brought me back + Opus 5.5 vs. GPT-6 Sol bench</a> — Lenny's Newsletter</li><li><a href="https://www.paymentsdive.com/news/fednow-tiptoes-into-cross-border/831632/">FedNow tiptoes into cross-border</a> — Payments Dive</li></ul>]]></content:encoded>
+      <itunes:title>Rails and Roadmaps — 2026-09-28</itunes:title>
+      <itunes:summary>&lt;p&gt;Today's five stories across product management and payments.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.paymentsdive.com/news/fido-wrestles-with-agentic-trust/831380/"&gt;FIDO wrestles with agentic trust&lt;/a&gt; — Payments Dive&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.paymentsdive.com/news/fed-proposes-stablecoin-rules/831405/"&gt;Fed proposes stablecoin rules&lt;/a&gt; — Payments Dive&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.lennysnewsletter.com/p/all-of-the-lenny-and-friends-summit"&gt;All of the Lenny &amp;amp; Friends Summit talks are now online!&lt;/a&gt; — Lenny's Newsletter&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.lennysnewsletter.com/p/how-i-ai-jev-for-beginners-i-left"&gt;🎙️ How I AI: Jev for beginners + I left Claude for months, Opus 5.5 brought me back + Opus 5.5 vs. GPT-6 Sol bench&lt;/a&gt; — Lenny's Newsletter&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.paymentsdive.com/news/fednow-tiptoes-into-cross-border/831632/"&gt;FedNow tiptoes into cross-border&lt;/a&gt; — Payments Dive&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+      <itunes:author>PM &amp; Payments Daily</itunes:author>
+      <itunes:duration>693</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://adil1248.github.io/pm-payments-daily/episodes/2026-09-28.mp3" length="8321549" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Rails and Roadmaps — 2026-09-21</title>
       <link>https://adil1248.github.io/pm-payments-daily/</link>
