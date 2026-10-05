@@ -8,7 +8,7 @@
     <description>A daily two-host digest of what moved in product management and in payments and fintech over the last twenty-four hours. Independent industry commentary; not affiliated with any company covered.</description>
     <language>en-us</language>
     <copyright>PM &amp; Payments Daily</copyright>
-    <lastBuildDate>Tue, 29 Sep 2026 16:12:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 22:56:37 +0000</lastBuildDate>
     <generator>rss.py</generator>
     <image>
       <url>https://adil1248.github.io/pm-payments-daily/cover.jpg</url>
@@ -22,6 +22,21 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Business"><itunes:category text="Management"/></itunes:category>
     <itunes:owner><itunes:name>PM &amp; Payments Daily</itunes:name><itunes:email>12261227+adil1248@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>Rails and Roadmaps — 2026-10-05</title>
+      <link>https://adil1248.github.io/pm-payments-daily/</link>
+      <guid isPermaLink="false">rails-roadmaps-2026-10-05-e9f8541e</guid>
+      <pubDate>Mon, 05 Oct 2026 22:56:37 +0000</pubDate>
+      <description>&lt;p&gt;Today's five stories across product management and payments.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.finextra.com/videoarticle/3604/can-banks-adapt-to-a-new-age-of-agentic-commerce-and-tokenized-money?utm_medium=rssfinextra&amp;amp;utm_source=finextrafeed"&gt;Can Banks Adapt to a New Age of Agentic Commerce and Tokenized Money?&lt;/a&gt; — Finextra&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.paymentsdive.com/news/fiserv-payments-processor-stablecoin-pivot-fiusd/832133/"&gt;Why Fiserv pivoted on FIUSD&lt;/a&gt; — Payments Dive&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.lennysnewsletter.com/p/how-i-ai-8-real-jev-use-cases-how"&gt;🎙️ How I AI: 8 real Jev use cases + How OpenAI uses ChatGPT Sites (live at DevDay!) + Claire’s DevDay recap&lt;/a&gt; — Lenny's Newsletter&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live"&gt;How OpenAI uses ChatGPT Sites (live at DevDay!) | Kath Korevec (Product Lead)&lt;/a&gt; — Lenny's Newsletter&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.paymentsdive.com/news/toast-adds-fuel-payments-to-its-platform/832057/"&gt;Toast adds fuel payments&lt;/a&gt; — Payments Dive&lt;/li&gt;&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p>Today's five stories across product management and payments.</p><ul><li><a href="https://www.finextra.com/videoarticle/3604/can-banks-adapt-to-a-new-age-of-agentic-commerce-and-tokenized-money?utm_medium=rssfinextra&amp;utm_source=finextrafeed">Can Banks Adapt to a New Age of Agentic Commerce and Tokenized Money?</a> — Finextra</li><li><a href="https://www.paymentsdive.com/news/fiserv-payments-processor-stablecoin-pivot-fiusd/832133/">Why Fiserv pivoted on FIUSD</a> — Payments Dive</li><li><a href="https://www.lennysnewsletter.com/p/how-i-ai-8-real-jev-use-cases-how">🎙️ How I AI: 8 real Jev use cases + How OpenAI uses ChatGPT Sites (live at DevDay!) + Claire’s DevDay recap</a> — Lenny's Newsletter</li><li><a href="https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live">How OpenAI uses ChatGPT Sites (live at DevDay!) | Kath Korevec (Product Lead)</a> — Lenny's Newsletter</li><li><a href="https://www.paymentsdive.com/news/toast-adds-fuel-payments-to-its-platform/832057/">Toast adds fuel payments</a> — Payments Dive</li></ul>]]></content:encoded>
+      <itunes:title>Rails and Roadmaps — 2026-10-05</itunes:title>
+      <itunes:summary>&lt;p&gt;Today's five stories across product management and payments.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.finextra.com/videoarticle/3604/can-banks-adapt-to-a-new-age-of-agentic-commerce-and-tokenized-money?utm_medium=rssfinextra&amp;amp;utm_source=finextrafeed"&gt;Can Banks Adapt to a New Age of Agentic Commerce and Tokenized Money?&lt;/a&gt; — Finextra&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.paymentsdive.com/news/fiserv-payments-processor-stablecoin-pivot-fiusd/832133/"&gt;Why Fiserv pivoted on FIUSD&lt;/a&gt; — Payments Dive&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.lennysnewsletter.com/p/how-i-ai-8-real-jev-use-cases-how"&gt;🎙️ How I AI: 8 real Jev use cases + How OpenAI uses ChatGPT Sites (live at DevDay!) + Claire’s DevDay recap&lt;/a&gt; — Lenny's Newsletter&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live"&gt;How OpenAI uses ChatGPT Sites (live at DevDay!) | Kath Korevec (Product Lead)&lt;/a&gt; — Lenny's Newsletter&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.paymentsdive.com/news/toast-adds-fuel-payments-to-its-platform/832057/"&gt;Toast adds fuel payments&lt;/a&gt; — Payments Dive&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+      <itunes:author>PM &amp; Payments Daily</itunes:author>
+      <itunes:duration>723</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://adil1248.github.io/pm-payments-daily/episodes/2026-10-05.mp3" length="8686741" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Rails and Roadmaps — 2026-09-28</title>
       <link>https://adil1248.github.io/pm-payments-daily/</link>
