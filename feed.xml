@@ -8,7 +8,7 @@
     <description>A daily two-host digest of what moved in product management and in payments and fintech over the last twenty-four hours. Independent industry commentary; not affiliated with any company covered.</description>
     <language>en-us</language>
     <copyright>PM &amp; Payments Daily</copyright>
-    <lastBuildDate>Mon, 05 Oct 2026 22:56:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 23:34:55 +0000</lastBuildDate>
     <generator>rss.py</generator>
     <image>
       <url>https://adil1248.github.io/pm-payments-daily/cover.jpg</url>
@@ -22,6 +22,21 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Business"><itunes:category text="Management"/></itunes:category>
     <itunes:owner><itunes:name>PM &amp; Payments Daily</itunes:name><itunes:email>12261227+adil1248@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>Rails and Roadmaps — 2026-10-12</title>
+      <link>https://adil1248.github.io/pm-payments-daily/</link>
+      <guid isPermaLink="false">rails-roadmaps-2026-10-12-c0da6dd1</guid>
+      <pubDate>Mon, 12 Oct 2026 23:34:54 +0000</pubDate>
+      <description>&lt;p&gt;Today's five stories across product management and payments.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.finextra.com/newsarticle/48561/anyflo-emerges-from-stealth-to-simplify-stablecoin-payments-for-enterprises?utm_medium=rssfinextra&amp;amp;utm_source=finextrafeed"&gt;Anyflo emerges from stealth to simplify stablecoin payments for enterprises&lt;/a&gt; — Finextra&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.finextra.com/pressarticle/111219/veryfi-launches-ai-powered-fraud-prevention-tools?utm_medium=rssfinextra&amp;amp;utm_source=finextrafeed"&gt;Veryfi launches AI-powered fraud prevention tools&lt;/a&gt; — Finextra&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with"&gt;🎙️ How I AI: How Meta designed Muse with Alex Cornell&lt;/a&gt; — Lenny's Newsletter&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent"&gt;How Meta designed Muse: an AI agent people actually want to talk to | Alex Cornell (Design Director)&lt;/a&gt; — Lenny's Newsletter&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.paymentsdive.com/news/visa-mastercard-payouts-top-631m/832669/"&gt;Visa-Mastercard payouts top $631M&lt;/a&gt; — Payments Dive&lt;/li&gt;&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p>Today's five stories across product management and payments.</p><ul><li><a href="https://www.finextra.com/newsarticle/48561/anyflo-emerges-from-stealth-to-simplify-stablecoin-payments-for-enterprises?utm_medium=rssfinextra&amp;utm_source=finextrafeed">Anyflo emerges from stealth to simplify stablecoin payments for enterprises</a> — Finextra</li><li><a href="https://www.finextra.com/pressarticle/111219/veryfi-launches-ai-powered-fraud-prevention-tools?utm_medium=rssfinextra&amp;utm_source=finextrafeed">Veryfi launches AI-powered fraud prevention tools</a> — Finextra</li><li><a href="https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with">🎙️ How I AI: How Meta designed Muse with Alex Cornell</a> — Lenny's Newsletter</li><li><a href="https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent">How Meta designed Muse: an AI agent people actually want to talk to | Alex Cornell (Design Director)</a> — Lenny's Newsletter</li><li><a href="https://www.paymentsdive.com/news/visa-mastercard-payouts-top-631m/832669/">Visa-Mastercard payouts top $631M</a> — Payments Dive</li></ul>]]></content:encoded>
+      <itunes:title>Rails and Roadmaps — 2026-10-12</itunes:title>
+      <itunes:summary>&lt;p&gt;Today's five stories across product management and payments.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.finextra.com/newsarticle/48561/anyflo-emerges-from-stealth-to-simplify-stablecoin-payments-for-enterprises?utm_medium=rssfinextra&amp;amp;utm_source=finextrafeed"&gt;Anyflo emerges from stealth to simplify stablecoin payments for enterprises&lt;/a&gt; — Finextra&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.finextra.com/pressarticle/111219/veryfi-launches-ai-powered-fraud-prevention-tools?utm_medium=rssfinextra&amp;amp;utm_source=finextrafeed"&gt;Veryfi launches AI-powered fraud prevention tools&lt;/a&gt; — Finextra&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with"&gt;🎙️ How I AI: How Meta designed Muse with Alex Cornell&lt;/a&gt; — Lenny's Newsletter&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent"&gt;How Meta designed Muse: an AI agent people actually want to talk to | Alex Cornell (Design Director)&lt;/a&gt; — Lenny's Newsletter&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.paymentsdive.com/news/visa-mastercard-payouts-top-631m/832669/"&gt;Visa-Mastercard payouts top $631M&lt;/a&gt; — Payments Dive&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+      <itunes:author>PM &amp; Payments Daily</itunes:author>
+      <itunes:duration>633</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://adil1248.github.io/pm-payments-daily/episodes/2026-10-12.mp3" length="7607152" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Rails and Roadmaps — 2026-10-05</title>
       <link>https://adil1248.github.io/pm-payments-daily/</link>
