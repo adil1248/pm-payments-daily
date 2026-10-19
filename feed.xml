@@ -8,7 +8,7 @@
     <description>A daily two-host digest of what moved in product management and in payments and fintech over the last twenty-four hours. Independent industry commentary; not affiliated with any company covered.</description>
     <language>en-us</language>
     <copyright>PM &amp; Payments Daily</copyright>
-    <lastBuildDate>Mon, 12 Oct 2026 23:34:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 23:38:35 +0000</lastBuildDate>
     <generator>rss.py</generator>
     <image>
       <url>https://adil1248.github.io/pm-payments-daily/cover.jpg</url>
@@ -22,6 +22,21 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Business"><itunes:category text="Management"/></itunes:category>
     <itunes:owner><itunes:name>PM &amp; Payments Daily</itunes:name><itunes:email>12261227+adil1248@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>Rails and Roadmaps — 2026-10-19</title>
+      <link>https://adil1248.github.io/pm-payments-daily/</link>
+      <guid isPermaLink="false">rails-roadmaps-2026-10-19-4106d5a9</guid>
+      <pubDate>Mon, 19 Oct 2026 23:38:33 +0000</pubDate>
+      <description>&lt;p&gt;Today's five stories across product management and payments.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.paymentsdive.com/news/stripe-agentic-commerce-revs-up/833109/"&gt;Stripe agentic commerce revs up&lt;/a&gt; — Payments Dive&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.finextra.com/pressarticle/111350/mastercard-launches-stablecoin-security?utm_medium=rssfinextra&amp;amp;utm_source=finextrafeed"&gt;Mastercard launches Stablecoin Security&lt;/a&gt; — Finextra&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.finextra.com/videoarticle/3619/how-the-philippines-approached-tackling-fraud-and-accelerating-real-time-payments?utm_medium=rssfinextra&amp;amp;utm_source=finextrafeed"&gt;How the Philippines Approached Tackling Fraud and Accelerating Real-Time Payments&lt;/a&gt; — Finextra&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke"&gt;🎙️ How I AI: Meta Muse Wonder + How Brooke Lacey is scaling video with AI&lt;/a&gt; — Lenny's Newsletter&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator"&gt;“Claude cuts my TikTok”: How this creator is scaling video with AI | Brooke Lacey&lt;/a&gt; — Lenny's Newsletter&lt;/li&gt;&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p>Today's five stories across product management and payments.</p><ul><li><a href="https://www.paymentsdive.com/news/stripe-agentic-commerce-revs-up/833109/">Stripe agentic commerce revs up</a> — Payments Dive</li><li><a href="https://www.finextra.com/pressarticle/111350/mastercard-launches-stablecoin-security?utm_medium=rssfinextra&amp;utm_source=finextrafeed">Mastercard launches Stablecoin Security</a> — Finextra</li><li><a href="https://www.finextra.com/videoarticle/3619/how-the-philippines-approached-tackling-fraud-and-accelerating-real-time-payments?utm_medium=rssfinextra&amp;utm_source=finextrafeed">How the Philippines Approached Tackling Fraud and Accelerating Real-Time Payments</a> — Finextra</li><li><a href="https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke">🎙️ How I AI: Meta Muse Wonder + How Brooke Lacey is scaling video with AI</a> — Lenny's Newsletter</li><li><a href="https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator">“Claude cuts my TikTok”: How this creator is scaling video with AI | Brooke Lacey</a> — Lenny's Newsletter</li></ul>]]></content:encoded>
+      <itunes:title>Rails and Roadmaps — 2026-10-19</itunes:title>
+      <itunes:summary>&lt;p&gt;Today's five stories across product management and payments.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.paymentsdive.com/news/stripe-agentic-commerce-revs-up/833109/"&gt;Stripe agentic commerce revs up&lt;/a&gt; — Payments Dive&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.finextra.com/pressarticle/111350/mastercard-launches-stablecoin-security?utm_medium=rssfinextra&amp;amp;utm_source=finextrafeed"&gt;Mastercard launches Stablecoin Security&lt;/a&gt; — Finextra&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.finextra.com/videoarticle/3619/how-the-philippines-approached-tackling-fraud-and-accelerating-real-time-payments?utm_medium=rssfinextra&amp;amp;utm_source=finextrafeed"&gt;How the Philippines Approached Tackling Fraud and Accelerating Real-Time Payments&lt;/a&gt; — Finextra&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke"&gt;🎙️ How I AI: Meta Muse Wonder + How Brooke Lacey is scaling video with AI&lt;/a&gt; — Lenny's Newsletter&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator"&gt;“Claude cuts my TikTok”: How this creator is scaling video with AI | Brooke Lacey&lt;/a&gt; — Lenny's Newsletter&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+      <itunes:author>PM &amp; Payments Daily</itunes:author>
+      <itunes:duration>530</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://adil1248.github.io/pm-payments-daily/episodes/2026-10-19.mp3" length="6366440" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Rails and Roadmaps — 2026-10-12</title>
       <link>https://adil1248.github.io/pm-payments-daily/</link>
