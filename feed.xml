@@ -8,7 +8,7 @@
     <description>A daily two-host digest of what moved in product management and in payments and fintech over the last twenty-four hours. Independent industry commentary; not affiliated with any company covered.</description>
     <language>en-us</language>
     <copyright>PM &amp; Payments Daily</copyright>
-    <lastBuildDate>Mon, 19 Oct 2026 23:38:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 22:40:44 +0000</lastBuildDate>
     <generator>rss.py</generator>
     <image>
       <url>https://adil1248.github.io/pm-payments-daily/cover.jpg</url>
@@ -22,6 +22,21 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Business"><itunes:category text="Management"/></itunes:category>
     <itunes:owner><itunes:name>PM &amp; Payments Daily</itunes:name><itunes:email>12261227+adil1248@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>Rails and Roadmaps — 2026-10-26</title>
+      <link>https://adil1248.github.io/pm-payments-daily/</link>
+      <guid isPermaLink="false">rails-roadmaps-2026-10-26-3309310f</guid>
+      <pubDate>Mon, 26 Oct 2026 22:40:43 +0000</pubDate>
+      <description>&lt;p&gt;Today's five stories across product management and payments.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.paymentsdive.com/news/euronet-fireblocks-pursue-stablecoin-cards/872760/"&gt;Euronet, Fireblocks pursue stablecoin cards&lt;/a&gt; — Payments Dive&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.pymnts.com/cybersecurity/fraud-prevention/2026/banks-narrow-fraud-technology-divide-but-deliver-uneven-results/"&gt;Banks Narrow Fraud Technology Divide but Deliver Uneven Results&lt;/a&gt; — PYMNTS&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.lennysnewsletter.com/p/how-i-ai-claude-duet-honest-review"&gt;🎙️ How I AI: Claude Duet honest review + Why Reddit built its own AI prototyping tool&lt;/a&gt; — Lenny's Newsletter&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.lennysnewsletter.com/p/why-reddit-built-its-own-ai-prototyping"&gt;Why Reddit built its own AI prototyping tool | Blair Metcalf&lt;/a&gt; — Lenny's Newsletter&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.paymentsdive.com/news/fed-loses-debit-card-cap-appeal/872785/"&gt;Fed loses debit card cap appeal&lt;/a&gt; — Payments Dive&lt;/li&gt;&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p>Today's five stories across product management and payments.</p><ul><li><a href="https://www.paymentsdive.com/news/euronet-fireblocks-pursue-stablecoin-cards/872760/">Euronet, Fireblocks pursue stablecoin cards</a> — Payments Dive</li><li><a href="https://www.pymnts.com/cybersecurity/fraud-prevention/2026/banks-narrow-fraud-technology-divide-but-deliver-uneven-results/">Banks Narrow Fraud Technology Divide but Deliver Uneven Results</a> — PYMNTS</li><li><a href="https://www.lennysnewsletter.com/p/how-i-ai-claude-duet-honest-review">🎙️ How I AI: Claude Duet honest review + Why Reddit built its own AI prototyping tool</a> — Lenny's Newsletter</li><li><a href="https://www.lennysnewsletter.com/p/why-reddit-built-its-own-ai-prototyping">Why Reddit built its own AI prototyping tool | Blair Metcalf</a> — Lenny's Newsletter</li><li><a href="https://www.paymentsdive.com/news/fed-loses-debit-card-cap-appeal/872785/">Fed loses debit card cap appeal</a> — Payments Dive</li></ul>]]></content:encoded>
+      <itunes:title>Rails and Roadmaps — 2026-10-26</itunes:title>
+      <itunes:summary>&lt;p&gt;Today's five stories across product management and payments.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.paymentsdive.com/news/euronet-fireblocks-pursue-stablecoin-cards/872760/"&gt;Euronet, Fireblocks pursue stablecoin cards&lt;/a&gt; — Payments Dive&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.pymnts.com/cybersecurity/fraud-prevention/2026/banks-narrow-fraud-technology-divide-but-deliver-uneven-results/"&gt;Banks Narrow Fraud Technology Divide but Deliver Uneven Results&lt;/a&gt; — PYMNTS&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.lennysnewsletter.com/p/how-i-ai-claude-duet-honest-review"&gt;🎙️ How I AI: Claude Duet honest review + Why Reddit built its own AI prototyping tool&lt;/a&gt; — Lenny's Newsletter&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.lennysnewsletter.com/p/why-reddit-built-its-own-ai-prototyping"&gt;Why Reddit built its own AI prototyping tool | Blair Metcalf&lt;/a&gt; — Lenny's Newsletter&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.paymentsdive.com/news/fed-loses-debit-card-cap-appeal/872785/"&gt;Fed loses debit card cap appeal&lt;/a&gt; — Payments Dive&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+      <itunes:author>PM &amp; Payments Daily</itunes:author>
+      <itunes:duration>548</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://adil1248.github.io/pm-payments-daily/episodes/2026-10-26.mp3" length="6584929" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Rails and Roadmaps — 2026-10-19</title>
       <link>https://adil1248.github.io/pm-payments-daily/</link>
